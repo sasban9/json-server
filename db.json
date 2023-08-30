@@ -1,6 +1,23 @@
 {
     "user": {
         "firstname": "Saswata",
-        "lastname": "Banerjee"
+        "lastname": "Banerjee",
+        "username": "sasban9"
+    },
+    "email": "sasban@gmail.com",
+    "address": {
+        "line1": "pariwar passion g347",
+        "line2": "tejaswini nagar phase 2",
+        "city": "Bengaluru"
+    },
+    "games": {
+        "13824": {
+            "name": "car game",
+            "publisher": "neo"
+        },
+        "13825": {
+            "name": "car game",
+            "publisher": "neo"
+        }
     }
 }
